@@ -1,0 +1,51 @@
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "29m-bb-TaJ"; */
+"29m-bb-TaJ.normalTitle" = "Réinitialiser";
+
+/* Class = "UIButton"; normalTitle = "Help"; ObjectID = "5aQ-Ls-kjI"; */
+"5aQ-Ls-kjI.normalTitle" = "Aidez-moi";
+
+/* Class = "UILabel"; text = "Level"; ObjectID = "6pT-nj-eRg"; */
+"6pT-nj-eRg.text" = "Niveau";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "7Sh-mQ-YyY"; */
+"7Sh-mQ-YyY.normalTitle" = "Réinitialiser";
+
+/* Class = "UILabel"; text = "Creation"; ObjectID = "8Yd-mY-hdl"; */
+"8Yd-mY-hdl.text" = "Création";
+
+/* Class = "UIButton"; normalTitle = "Easy"; ObjectID = "Elf-Xj-jtM"; */
+"Elf-Xj-jtM.normalTitle" = "Facile";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "H61-hd-hpk"; */
+"H61-hd-hpk.normalTitle" = "Réinitialiser";
+
+/* Class = "UIButton"; normalTitle = "Finished?"; ObjectID = "KtT-pf-F9g"; */
+"KtT-pf-F9g.normalTitle" = "Fini?";
+
+/* Class = "UILabel"; text = "Player One"; ObjectID = "L0d-MG-Ekp"; */
+"L0d-MG-Ekp.text" = "Joueur One";
+
+/* Class = "UIButton"; normalTitle = "Load"; ObjectID = "Of7-en-WeM"; */
+"Of7-en-WeM.normalTitle" = "Charge";
+
+/* Class = "UIButton"; normalTitle = "Finished?"; ObjectID = "hkG-qI-TVr"; */
+"hkG-qI-TVr.normalTitle" = "Fini?";
+
+/* Class = "UIButton"; normalTitle = "Easy"; ObjectID = "m3f-2E-aQd"; */
+"m3f-2E-aQd.normalTitle" = "Facile";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "rlO-su-MV1"; */
+"rlO-su-MV1.normalTitle" = "Effacer";
+
+/* Class = "UIButton"; normalTitle = "Player vs Player"; ObjectID = "s3Y-Yc-Dzv"; */
+"s3Y-Yc-Dzv.normalTitle" = "Joueur contre joueur";
+
+/* Class = "UIButton"; normalTitle = "Finished?"; ObjectID = "s7j-2d-H5I"; */
+"s7j-2d-H5I.normalTitle" = "Fini?";
+
+/* Class = "UIButton"; normalTitle = "Creation"; ObjectID = "tEf-aV-Qij"; */
+"tEf-aV-Qij.normalTitle" = "Création";
+
+/* Class = "UIButton"; normalTitle = "Challenge"; ObjectID = "tV9-Pm-8cV"; */
+"tV9-Pm-8cV.normalTitle" = "Défi";

@@ -1,0 +1,60 @@
+/* 
+  Localizable.strings
+  Dots
+
+  Created by Travis London on 1/12/17.
+  Copyright © 2017 Travis London. All rights reserved.
+*/
+"Finished?" = "Finished?";
+"Player One" = "Player One";
+"Player Two" = "Player Two";
+"Easy" = "Easy";
+"Hard" = "Hard";
+"CountDown" = "Starting in";
+"Game Complete" = "Game Complete";
+"Pass" = "Pass";
+"Retry" = "Retry";
+"Did not connect the dots!" = "Did not connect the dots!";
+"Successfully connected the dots!" = "Successfully connected the dots!";
+"Give Up" = "Give Up";
+"Game Complete" = "Game Complete";
+"Reset" = "Reset";
+"Choose a name for the dot graph" = "Choose a name for the dot graph";
+"HelpContents" = "Modes:
+
+Challenge
+---------
+In Challenge mode load pre-created dot graphs, then challenge yourself to try and realize the original image.
+
+Creation
+--------
+Create your own own dot images and save them to be used in Challenge mode.
+
+Player vs Player
+----------------
+Take turns with a friend creating images and solving the created dot graphs.  Use easy mode to give a short preview of the image before solving, or try the hard way without seeing any lines from the original image.
+
+Usage:
+
+Dot and line creation
+---------------------
+Touch anywhere on the display to create a dot.
+
+Slide from one location to another on the display, creating dots along the way.
+
+Touch down at a desired location on the display, using another finger touch to a destination location.
+
+Lines are created automatically. A specific line can be created by using multitouch between two existing dots.
+
+Controls
+--------
+Reset - Clear all drawn lines and dots (only lines will be cleared if not in Creation mode).
+
+Easy/Hard - Set the difficulty for the current mode.  Challenge and Player vs Player show a brief view of the solved dot graph.
+
+Finished? - In Challenge mode this will compare the expected solution against yours and display the results.  In Player vs Player mode this will remove the lines during creation, touching finish again will then compare the expected solution with the opponents solution.  During Creation mode you will be presented with a dialog to name the created image for saving.
+
+Load - In Challenge mode this will allow you to choose a pre-created dot graph to load onto the display.
+
+Delete - In Creation mode this will allow you to delete pre-created dot graphs from your device.
+";

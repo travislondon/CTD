@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  Dots
+
+  Created by Travis London on 1/12/17.
+  Copyright © 2017 Travis London. All rights reserved.
+*/
+"Finished?" = "Finito?";
+"Player One" = "Giocatore Uno";
+"Player Two" = "Giocatore Due";
+"Easy" = "Facile";
+"Hard" = "Difficile";
+"CountDown" = "a partire dal";
+"Game Complete" = "completa il gioco";
+"Pass" = "Passaggio";
+"Retry" = "Riprova";
+"Did not connect the dots!" = "Non collegare i puntini!";
+"Successfully connected the dots!" = "collegato con successo i punti!";
+"Give Up" = "Mollare";
+"Reset" = "Reset";
+"Choose a name for the dot graph" = "Scegliere un nome per il grafico dot";
+"HelpContents" = "Modalità:
+
+Sfida
+-----
+In Sfide carico modalità pre-creati grafici a punti, quindi sfidare te stesso per cercare di realizzare l'immagine originale.
+
+Creazione
+---------
+Crea le tue proprie immagini a punti e risparmiare loro di essere utilizzati in modalità Challenge.
+
+Giocatore contro giocatore
+--------------------------
+A turno, con un amico la creazione di immagini e risolvere i grafici creati punti. Utilizzare la modalità facile dare una breve anteprima delle immagini prima di risolvere, o provare nel modo più duro senza vedere tutte le righe dall'immagine originale.
+
+Uso:
+
+Dot e creazione della linea
+---------------------------
+Toccare un punto qualsiasi del display per creare un punto.
+
+Far scorrere da un luogo ad un altro sul display, la creazione di punti lungo la strada.
+
+Atterrare in una posizione desiderata sul display, utilizzando un altro tocco delle dita di una posizione di destinazione.
+
+Le linee vengono creati automaticamente. Una linea specifica può essere creato utilizzando multitouch tra due punti esistenti.
+
+controlli
+---------
+Resetta - linee Cancella tutto disegnate e punti (solo linee saranno cancellati se non in modalità di creazione).
+
+Facile / Difficile - impostare la difficoltà per la modalità corrente. Challenge e giocatore contro giocatore mostrano una breve vista del grafico dot risolto.
+
+Finito? - Nella modalità Sfida questo confronterà la soluzione prevista contro la tua e visualizzare i risultati. In Player vs Player modalità questo rimuoverà le righe durante la creazione, toccando finitura ancora una volta sarà quindi confrontare la soluzione previsto con la soluzione avversari. Durante la modalità di creazione verrà presentato con una finestra di nominare l'immagine creata per il salvataggio.
+
+Carico - Nella modalità Sfida questo vi permetterà di scegliere un grafico di punti di pre-creato per caricare sul display.
+
+Elimina - Nella modalità Creazione questo vi permetterà di eliminare i grafici di punti pre-creati dal dispositivo.";

@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  Dots
+
+  Created by Travis London on 1/12/17.
+  Copyright © 2017 Travis London. All rights reserved.
+*/
+"Finished?" = "Fertig?";
+"Player One" = "Spieler Eins";
+"Player Two" = "Spieler Zwei";
+"Easy" = "Einfach";
+"Hard" = "Hart";
+"CountDown" = "Beginnend in";
+"Game Complete" = "Spiel komplett";
+"Pass" = "Bestehen";
+"Retry" = "Wiederholen";
+"Did not connect the dots!" = "Nicht die Punkte verbinden!";
+"Successfully connected the dots!" = "Erfolgreich die Punkte verbunden!";
+"Give Up" = "Gib auf";
+"Reset" = "Zurücksetzen";
+"Choose a name for the dot graph" = "Wählen Sie einen Namen für den Punktgraphen";
+"HelpContents" = "Betriebsarten:
+
+Herausforderung
+---------------
+Im Challenge-Modus laden Sie vorgefertigte Punktdiagramme, dann fordern Sie sich zu versuchen und realisieren das Originalbild.
+
+Kreierung
+---------
+Erstellen Sie Ihre eigenen Punktbilder und speichern Sie sie im Challenge-Modus.
+
+Spieler gegen Spieler
+Aufrechtzuerhalten.
+Abwechselnd mit einem Freund, der Bilder erstellt und die erstellten Punktgraphen löscht. Verwenden Sie den einfachen Modus, um eine kurze Vorschau des Bildes vor dem Lösen zu geben, oder versuchen Sie die harte Weise, ohne irgendwelche Linien aus dem Originalbild zu sehen.
+
+Verwendung:
+
+Punkt- und Linienerstellung
+---------------------------
+Tippen Sie auf eine beliebige Stelle im Display, um einen Punkt zu erstellen.
+
+Schieben Sie von einem Ort zum anderen auf dem Display, so dass Punkte auf dem Weg.
+
+Tippen Sie an einer gewünschten Stelle auf dem Display nach unten und verwenden Sie eine andere Fingerspitze zu einem Zielort.
+
+Zeilen werden automatisch erstellt. Eine spezifische Linie kann erstellt werden, indem Multitouch zwischen zwei vorhandenen Punkten verwendet wird.
+
+Bedienelemente
+--------------
+Reset - Alle gezeichneten Linien und Punkte löschen (nur Linien werden gelöscht, wenn nicht im Erstellungsmodus).
+
+Einfach / Hart - Stellen Sie die Schwierigkeit für den aktuellen Modus ein. Herausforderung und Spieler gegen Spieler zeigen eine kurze Ansicht des gezeichneten Punktdiagramms.
+
+Fertig? - Im Challenge-Modus vergleichen Sie die erwartete Lösung mit Ihrem und zeigen die Ergebnisse an. Im Player vs Player-Modus wird dies die Zeilen bei der Erstellung zu entfernen, berühren Ende wieder wird dann vergleichen Sie die erwartete Lösung mit der gegnerischen Lösung. Während des Erstellungsmodus wird Ihnen ein Dialogfeld angezeigt, in dem Sie das erstellte Bild zum Speichern benennen können.
+
+Load - Im Challenge - Modus können Sie einen vorgefertigten Graphen auswählen, der auf das Display geladen werden soll.
+
+Löschen - Im Erstellungsmodus können Sie zuvor erstellte Punktdiagramme von Ihrem Gerät löschen.";

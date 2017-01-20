@@ -1,0 +1,51 @@
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "29m-bb-TaJ"; */
+"29m-bb-TaJ.normalTitle" = "重启";
+
+/* Class = "UIButton"; normalTitle = "Help"; ObjectID = "5aQ-Ls-kjI"; */
+"5aQ-Ls-kjI.normalTitle" = "帮帮我";
+
+/* Class = "UILabel"; text = "Level"; ObjectID = "6pT-nj-eRg"; */
+"6pT-nj-eRg.text" = "水平";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "7Sh-mQ-YyY"; */
+"7Sh-mQ-YyY.normalTitle" = "重启";
+
+/* Class = "UILabel"; text = "Creation"; ObjectID = "8Yd-mY-hdl"; */
+"8Yd-mY-hdl.text" = "创建";
+
+/* Class = "UIButton"; normalTitle = "Easy"; ObjectID = "Elf-Xj-jtM"; */
+"Elf-Xj-jtM.normalTitle" = "简单";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "H61-hd-hpk"; */
+"H61-hd-hpk.normalTitle" = "重启";
+
+/* Class = "UIButton"; normalTitle = "Finished?"; ObjectID = "KtT-pf-F9g"; */
+"KtT-pf-F9g.normalTitle" = "完成了?";
+
+/* Class = "UILabel"; text = "Player One"; ObjectID = "L0d-MG-Ekp"; */
+"L0d-MG-Ekp.text" = "玩家一";
+
+/* Class = "UIButton"; normalTitle = "Load"; ObjectID = "Of7-en-WeM"; */
+"Of7-en-WeM.normalTitle" = "加载";
+
+/* Class = "UIButton"; normalTitle = "Finished?"; ObjectID = "hkG-qI-TVr"; */
+"hkG-qI-TVr.normalTitle" = "完成了?";
+
+/* Class = "UIButton"; normalTitle = "Easy"; ObjectID = "m3f-2E-aQd"; */
+"m3f-2E-aQd.normalTitle" = "简单";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "rlO-su-MV1"; */
+"rlO-su-MV1.normalTitle" = "删除";
+
+/* Class = "UIButton"; normalTitle = "Player vs Player"; ObjectID = "s3Y-Yc-Dzv"; */
+"s3Y-Yc-Dzv.normalTitle" = "玩家vs玩家";
+
+/* Class = "UIButton"; normalTitle = "Finished?"; ObjectID = "s7j-2d-H5I"; */
+"s7j-2d-H5I.normalTitle" = "完成了?";
+
+/* Class = "UIButton"; normalTitle = "Creation"; ObjectID = "tEf-aV-Qij"; */
+"tEf-aV-Qij.normalTitle" = "创建";
+
+/* Class = "UIButton"; normalTitle = "Challenge"; ObjectID = "tV9-Pm-8cV"; */
+"tV9-Pm-8cV.normalTitle" = "挑战";

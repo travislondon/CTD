@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  Dots
+
+  Created by Travis London on 1/12/17.
+  Copyright © 2017 Travis London. All rights reserved.
+*/
+"Finished?" = "Terminado?";
+"Player One" = "Jugador Uno";
+"Player Two" = "Jugador Dos";
+"Easy" = "Fácil";
+"Hard" = "Difícil";
+"CountDown" = "Empezando en";
+"Game Complete" = "Juego Completo";
+"Pass" = "Pasar";
+"Retry" = "Rever";
+"Did not connect the dots!" = "No conectar los puntos!";
+"Successfully connected the dots!" = "Conectado con éxito los puntos!";
+"Give Up" = "Rendirse";
+"Reset" = "Reiniciar";
+"Choose a name for the dot graph" = "Elija un nombre para el gráfico de puntos";
+"HelpContents" = "Modos:
+
+Reto
+----
+En el modo Desafío, cargue gráficas de puntos pre-creados y, a continuación, desafíese a intentar realizar la imagen original.
+
+Creación
+--------
+Cree sus propias imágenes de punto y guárdelas para utilizarlas en el modo Desafío.
+
+Jugador vs jugador
+------------------
+Tome turnos con un amigo creando imágenes y resolviendo los gráficos de puntos creados. Utilice el modo fácil para obtener una breve vista previa de la imagen antes de solucionarla, o pruebe de forma difícil sin ver ninguna línea de la imagen original.
+
+Uso:
+
+Creación de puntos y líneas
+---------------------------
+Toque en cualquier lugar de la pantalla para crear un punto.
+
+Deslice de un lugar a otro en la pantalla, creando puntos a lo largo del camino.
+
+Toque hacia abajo en la ubicación deseada en la pantalla, utilizando otro toque de dedo en una ubicación de destino.
+
+Las líneas se crean automáticamente. Se puede crear una línea específica utilizando multitouch entre dos puntos existentes.
+
+Controles
+---------
+Restablecer: borra todas las líneas y puntos dibujados (solo las líneas se borrarán si no están en modo Creación).
+
+Fácil / Difícil - Establece la dificultad para el modo actual. Challenge y Player vs Player muestran una breve vista del gráfico de puntos resuelto.
+
+¿Terminado? - En modo Desafío esto comparará la solución esperada con la suya y mostrará los resultados. En el modo Player vs Player esto eliminará las líneas durante la creación, tocando el final otra vez, entonces comparará la solución esperada con la solución de los opositores. Durante el modo de Creación se le presentará un diálogo para nombrar la imagen creada para guardarla.
+
+Carga - En el modo Desafío esto le permitirá elegir un gráfico de puntos pre-creado para cargar en la pantalla.
+
+Borrar - En el modo de creación esto le permitirá borrar los gráficos de puntos pre-creados de su dispositivo.";

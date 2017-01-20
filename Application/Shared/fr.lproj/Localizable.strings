@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  Dots
+
+  Created by Travis London on 1/12/17.
+  Copyright © 2017 Travis London. All rights reserved.
+*/
+"Finished?" = "Fini?";
+"Player One" = "Joueur Un";
+"Player Two" = "Joueur Deux";
+"Easy" = "Facile";
+"Hard" = "Difficile";
+"CountDown" = "À partir de";
+"Game Complete" = "Jeu complet";
+"Pass" = "Passer";
+"Retry" = "Recommencez";
+"Did not connect the dots!" = "Ne pas connecter les points!";
+"Successfully connected the dots!" = "Connexion réussie des points!";
+"Give Up" = "Abandonner";
+"Reset" = "Réinitialiser";
+"Choose a name for the dot graph" = "Choisissez un nom pour le graphe de points";
+"HelpContents" = "Modes:
+
+Défi
+----
+En mode Défi, chargez des graphiques de points pré-créés, puis lancez-vous un défi pour essayer de réaliser l'image originale.
+
+Création
+......
+Créez vos propres images de point et enregistrez-les pour être utilisées en mode Défi.
+
+Joueur contre joueur
+--------------------
+Prenez des tours avec un ami en créant des images et en résolvant les graphiques de points créés. Utilisez le mode facile pour donner un aperçu de l'image avant de la résoudre ou essayez de la manière la plus difficile sans voir les lignes de l'image d'origine.
+
+Usage:
+
+Création de points et lignes
+----------------------------
+Appuyez sur n'importe où sur l'écran pour créer un point.
+
+Faites glisser d'un endroit à un autre sur l'écran, créant des points le long du chemin.
+
+Touchez à l'emplacement souhaité sur l'écran, en utilisant un autre doigt pour toucher un emplacement de destination.
+
+Les lignes sont créées automatiquement. Une ligne spécifique peut être créée en utilisant le multitouch entre deux points existants.
+
+Contrôles
+---------
+Réinitialiser - Efface toutes les lignes et points tracés (seules les lignes seront effacées si ce n'est pas le mode Création).
+
+Facile / Difficile - Définit la difficulté pour le mode courant. Défi et Joueur vs Joueur montrent une courte vue du graphe de points résolu.
+
+Fini? - En mode Défi, comparez la solution attendue avec la vôtre et affichez les résultats. En mode Joueur / Joueur, cela supprimera les lignes pendant la création, en touchant la finition, vous comparerez ensuite la solution attendue avec la solution adverse. Pendant le mode Création, une boîte de dialogue s'affiche pour nommer l'image créée pour l'enregistrement.
+
+Load - En mode Challenge, cela vous permettra de choisir un graphe de points pré-créé à charger sur l'écran.
+
+Supprimer - En mode Création, cela vous permettra de supprimer des graphiques de points pré-créés de votre appareil.";
